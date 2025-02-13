@@ -161,6 +161,9 @@ color: var(--text-color);
 .projeto {
     margin-bottom: 0;
 }
+header nav {
+    display: none;
+}
 }
 
 #contato {
