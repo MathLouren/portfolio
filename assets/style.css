@@ -161,10 +161,15 @@ color: var(--text-color);
 .projeto {
     margin-bottom: 0;
 }
+}
+
+
+@media (max-width: 800px) {
 header nav {
     display: none !important;
 }
 }
+
 
 #contato {
 background-color: var(--secondary-color);
